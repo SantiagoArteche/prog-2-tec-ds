@@ -1,4 +1,4 @@
-# A number from 1 to 7 must be entered and, depending on the number entered, the day of the week to which it corresponds is displayed. # 1 is Sunday.
+
 
 day = int(input("Insert the day of the week: "))
 

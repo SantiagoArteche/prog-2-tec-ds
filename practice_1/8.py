@@ -1,7 +1,3 @@
-# Write a program that requests n student grades and tells you how many have grades greater than or equal to 7 and how many have grades lower than that. 
-# When grade=0 is entered, execution ends.
-
-
 grade = int(input("Insert calification"))
 
 greater_equal_than_seven = 0

@@ -1,8 +1,4 @@
-# Develop a program that allows you to enter 12 values ​​from the keyboard and then displays the sum of the entered values ​​and their average. 
-# The result of the average is a real value, i.e., with a comma. 
-# If you want the division result to return only the integer portion of the average, you must use the operator
-
-
+# 1
 init = 0
 sum = 0
 iterations = 12
@@ -13,8 +9,8 @@ while(init < iterations):
 
 print(f"The sum of the values is: {sum} \n and the average: {round(sum / iterations)}")
 
-# Develop a program that allows us to enter 10 numbers and tell us whether each number is even or odd.
 
+# 2
 init = 0
 iterations = 10
 results = []
