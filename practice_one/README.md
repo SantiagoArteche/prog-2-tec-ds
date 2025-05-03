@@ -51,3 +51,35 @@
 ### A company has n employees whose salaries range between $100 and $500.
 
 ### Create a program that reads the salaries of each employee and reports how many employees earn between $100 and $300 and how many earn more than $300. The program must also report the amount the company spends on staff salaries.
+
+# 10
+
+### A plant that manufactures iron profiles has a batch of n pieces.
+
+### Create a program that prompts you to enter the number of pieces to be processed and then enter the length of each profile; knowing that pieces with a length between 1.20 and 1.30 are suitable. Print the number of suitable pieces in the batch on the screen.
+
+# 11
+
+### Create a program that displays the even numbers from 200 to 100 in decreasing order.
+
+# 12
+
+### Enter an email and check if it has the @ character. If it doesn't, report the error.
+
+# 13
+
+### Cargar una oración por teclado. Mostrar luego cuantos espacios en blanco se ingresaron.
+
+# 14
+
+### Enter a sentence that can have both uppercase and lowercase letters. Count the number of vowels.
+
+# 15
+
+### Create a module that prompts the user to enter a username and password.Acceptance criteria:
+
+#### - The username must contain a minimum of 6 characters and a maximum of 12.
+
+#### - The password must contain a minimum of 8 characters.
+
+#### - The password cannot contain spaces.
