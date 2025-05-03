@@ -68,7 +68,7 @@
 
 # 13
 
-### Cargar una oración por teclado. Mostrar luego cuantos espacios en blanco se ingresaron.
+### Enter a sentence and display how many blank spaces has.
 
 # 14
 
